@@ -17,9 +17,9 @@
 ```python
 class Debabrata:
     name        = "Debabrata Pradhan"
-    role        = "Web Developer (Student)"
+    role        = "Web Developer (Fresher)"
     location    = "India 🇮🇳"
-    learning    = ["Django REST Framework", "React", "System Design"]
+    learning    = ["Data Structures & Algorithms", "System Design"]
     passion     = "Building user-friendly web experiences"
     fun_fact    = "I debug with coffee ☕ and fix bugs with more coffee"
 ```
@@ -35,6 +35,8 @@ class Debabrata:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Backend**
 
@@ -42,12 +44,18 @@ class Debabrata:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Database & Tools**
+**Database**
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -60,7 +68,6 @@ class Debabrata:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debabrata-Pradhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debabrata-Pradhan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debabrata-Pradhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 
 </div>
 
@@ -70,7 +77,7 @@ class Debabrata:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Debabrata-Pradhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Debabrata-Pradhan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
 </div>
 
