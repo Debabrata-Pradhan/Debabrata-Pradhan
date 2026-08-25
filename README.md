@@ -2,13 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Hi,%20I'm%20Debabrata%20👋&fontSize=42&fontColor=58a6ff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Web%20Developer%20%7C%20Turning%20Ideas%20into%20Reality&descAlignY=55&descSize=18&descColor=8b949e" />
 
-<a href="https://www.linkedin.com/in/debabrata-pradhan-345007275/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Debabrata-Pradhan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+REST+APIs+%E2%9A%A1;Building+cool+things+on+the+web+%F0%9F%8C%90;Always+learning%2C+always+growing+%F0%9F%93%88" />
 
 </div>
@@ -34,7 +27,7 @@ class Debabrata:
 - 🔭 Currently building projects with **Django** and **React**
 - 🌱 Sharpening my **DSA** and **System Design** fundamentals
 - 💬 Ask me about **Python, REST APIs, or web dev in general**
-- 📫 Reach me on **LinkedIn** — link above
+- 📫 Reach me via the contact links below
 
 <br>
 
@@ -111,6 +104,25 @@ class Debabrata:
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debabrata-Pradhan&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/Debabrata-Pradhan)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/debabrata-pradhan-345007275/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Debabrata-Pradhan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-homepage">
+  <img src="https://img.shields.io/badge/Indeed-2557a7?style=for-the-badge&logo=indeed&logoColor=white" />
+</a>
+<a href="mailto:debabrata.pradhan@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
